@@ -8,7 +8,6 @@ function humanReadableDate(date) {
 }
 
 function handleData(data) {
-	console.log(data);
 	var username = $("#userid").val();
 	var text = "<h1 class='b white tc f1'>User <a class='b blue' target='_blank' href='https://gist.github.com/" 
 							+ username + "'>" + username + "</a> has no public gists on Github</h1>";
