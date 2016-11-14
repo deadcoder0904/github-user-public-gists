@@ -4,12 +4,12 @@
 
 ### (1) User Not Found
 
-![404](http://imgur.com/weiCRmS.png)
+![404](http://imgur.com/nGqh12y.png)
 
 ### (2) User Has No Public Gists
 
-![No Public Gists](http://imgur.com/aZ8Uf9E.png)
+![No Public Gists](http://imgur.com/063HJ08.png)
 
 ### (3) All Public Gists
 
-![Public Gists](http://imgur.com/2ZZc5ck.png)
+![Public Gists](http://imgur.com/FzNraIM.png)
