@@ -33,7 +33,8 @@
         <div class="pa4-l">
           <form class="mw7 center pa4 br2-ns ba b--black-30" autocomplete="off">
             <fieldset class="cf bn ma0 pa0">
-              <div class="cf">
+              <legend class="pa0 f5 f4-ns mb3 black-80 ">Search the User's Gists : </legend>
+              <div class="cf grow">
                 <input class="fl f6 f5-l input-reset bn black-80 bg-white fl pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" 
                     placeholder="Enter the username" type="text" name="username" value="" id="userid">
                 <input class="fl f6 f5-l button-reset pv3 tc bn bg-animate bg-light-purple hover-bg-blue white pointer w-100 w-25-m w-20-l br2-ns br--right-ns" 
