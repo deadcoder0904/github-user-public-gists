@@ -57,6 +57,7 @@ $(document).ready(function() {
 		e.preventDefault();
 		var username = $("#userid").val();
 		if(username !== ""){
+			$("#userid").val("");
 			$.ajax({
 		  	url: "https://api.github.com/users/" + username + "/gists"
 			}).done(function(res) {
