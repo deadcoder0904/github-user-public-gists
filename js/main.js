@@ -59,7 +59,7 @@ $(document).ready(function() {
 		if(username !== ""){
 			$("#userid").val("");
 			$.ajax({
-		  	url: "https://api.github.com/users/" + username + "/gists"
+		  	url: "https://api.github.com/users/" + username + "/gists?per_page=1000"
 			}).done(function(res) {
 		   		handleData(res);
 			}).catch(function(err) {
